@@ -17,7 +17,7 @@
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nmdkims&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmdkims&layout=compact&hide_border=true&theme=white)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbsghdz1&layout=compact&hide_border=true&theme=white)
   
   <p>
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
